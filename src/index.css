@@ -4,15 +4,12 @@
   margin: 0;
   size-border: box-border;
   font-family: "Orbitron", sans-serif;
-  line-height: 18px;
 }
-/*body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
-}*/
+html,
+body {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
 @media (min-width: 600px) {
   span {
     font-size: 41px;
