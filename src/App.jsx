@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Cards from "./components/Cards";
+import Cards from "./components/cards";
 import phrases from "./assets/phrase.json";
 import Footer from "./components/Footer";
 import { getRandomNumber } from "./utils/getRandomNumber";
