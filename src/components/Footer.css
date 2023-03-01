@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Orbitron:wght@400;500;600;700;800;900&display=swap");
+.container_circle {
+  position: absolute;
+  bottom: -35.01%;
+}
+.text_container_circle {
+  width: 250px;
+  height: 250px;
+  padding: 50px;
+  background: radial-gradient(
+    80.6% 80.6% at 31.89% -4.64%,
+    #ffffff 0%,
+    rgba(211, 245, 255, 0.8124) 18.76%,
+    rgba(151, 232, 255, 0.5326) 46.74%,
+    rgba(108, 223, 255, 0.2941) 70.59%,
+    rgba(81, 217, 255, 0.109) 89.1%,
+    rgba(71, 215, 255, 0) 100%
+  );
+  border-radius: 50%;
+  opacity: 0.5;
+}
+.text_container_circle > p {
+  font-family: "Fredoka", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  color: #ffffff;
+}

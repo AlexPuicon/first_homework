@@ -1,0 +1,30 @@
+.container__text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
+span {
+  margin: 100px 0 0 0;
+  font-size: 32px;
+  text-shadow: 0px 4px 6px #9f84c5;
+  color: #ffffff;
+}
+.phrase__container {
+  width: 317px;
+  height: 108px;
+  line-height: 18px;
+  font-size: 14px;
+  padding: 50px 20px;
+  background: linear-gradient(
+    180deg,
+    #ffffff 0%,
+    rgba(255, 255, 255, 0.33) 100%
+  );
+  border-radius: 39px;
+}
+.phrase__container p {
+  height: 100%;
+  color: #25063f;
+  text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.33);
+}
