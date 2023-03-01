@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Orbitron:wght@400;500;600;700;800;900&display=swap");
 .container_circle {
   position: absolute;
+  top: 82%;
   bottom: -35.01%;
 }
 .text_container_circle {
