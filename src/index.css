@@ -16,13 +16,13 @@ body {
 }
 @media (min-width: 600px) {
   span {
-    font-size: 41px;
+    font-size: 60px;
   }
   .phrase__container {
     width: 450px;
     height: 150px;
     line-height: 19px;
-    font-size: 18px;
+    font-size: 28px;
   }
   .container_circle {
     position: absolute;
