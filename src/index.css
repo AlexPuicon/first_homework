@@ -1,9 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap");
+@font-face {
+  font-family: "Digital-Numbers";
+  src: url("./assets/fonts/DS-DIGI.TTF") format("truetype");
+}
 * {
   padding: 0;
   margin: 0;
   size-border: box-border;
-  font-family: "Orbitron", sans-serif;
+  font-family: "Digital-Numbers";
 }
 html,
 body {
